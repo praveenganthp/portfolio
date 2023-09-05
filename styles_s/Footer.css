@@ -1,0 +1,31 @@
+/* YourComponent.css */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 40px;
+    border-top: 1px solid #ddd;
+    font-size: 14px;
+    height: 100%;
+  }
+  
+  .copyright {
+    color: #a5a3a3;
+  }
+  
+  .social-icons {
+    font-size: 15px;
+  }
+  
+  .icon {
+    text-decoration: none;
+    color: #5b5959;
+    margin-left: 10px;
+    padding: 10px;
+  }
+  
+  .icon:hover {
+    color: #b3b5b9; /* Change color on hover */
+  }
+  

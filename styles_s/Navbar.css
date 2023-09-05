@@ -1,0 +1,12 @@
+nav{
+    height: 80px;
+    background: #0a0913;
+}
+.nav-img{
+    cursor: pointer;
+    transition: transform 0.5s ease-in-out;
+}
+.nav-img:hover{
+    transform: scale(1.5);
+}
+

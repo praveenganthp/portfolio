@@ -19,7 +19,7 @@ function Home() {
           </p>
           &nbsp;
           <br/>
-          <a href="/home"><button type="button" className="home-button">Get Started</button></a>
+          <a href="/about"><button type="button" className="home-button">Get Started</button></a>
         </div>
       </div>
     </div>

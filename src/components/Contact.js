@@ -11,7 +11,7 @@ function Contact(){
                 <h2 className='contact-head'>Ready to Work Together?</h2> 
                 <br/>
                 &nbsp;
-                <a href="/contact">
+                <a href="/contact_form">
                 <button type="button" className="home-button">
                   Contact Us
                 </button>

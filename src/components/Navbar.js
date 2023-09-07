@@ -31,6 +31,11 @@ function Navbar() {
               </a>
             </li>
             <li>
+              <a className="active" href="/work">
+                Our Work
+              </a>
+            </li>
+            <li>
               <a className="active" href="/contact">
                 Contact
               </a>

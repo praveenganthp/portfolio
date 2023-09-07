@@ -16,6 +16,7 @@ import {
   BrowserRouter,
   Routes,
 } from "react-router-dom";
+import ContactForm from "./components/ContactForm";
 
 function App() {
   return (
@@ -25,8 +26,9 @@ function App() {
         <Routes>
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<Service />} />
-          <Route path="/about" element={<Work />} />
+          <Route path="/work" element={<Work />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/contact_form" element={<ContactForm/>}/>
         </Routes>
         <Footer />
       </div>

@@ -19,7 +19,7 @@ function Service() {
                 all the way to the elegantly rounded corners.
               </p>
               <br />
-              <a href="/service">
+              <a href="/contact">
                 <button type="button" className="home-button">
                   Get Started
                 </button>
